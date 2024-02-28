@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Lista de Presentes</title>
+</head>
+<body>
+
+<h2>Lista de Presentes</h2>
+
+<ul>
+    <li><a href="https://minhaloja.grupoboticario.com.br/loja-danielesantanagoncalves-9628955">Boticario</a></li>
+    <li><a href="https://www.lojasrenner.com.br/?gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNcabfYPKexXYFgnVdfp9rrEzJ8Djb1UH-nwjT-OsGTNE5SA83BchqBoCIPgQAvD_BwE">Renner</a></li>
+    <li><a href="https://www.carolinaherrera.com/br/pt/?utm_source=adwords&utm_medium=paid_search_brand&utm_content=conversion&utm_bu=fragrance&utm_mkbr=brd_bra&utm_campaign=CH_BRA_Brand_PRT_ALL_Global_CONV&utm_term=loja%20carolina%20herrera&utm_clicktype=main_ad&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNbCDvzFmDN5v5VdvUzJ55bjk7vZG5N4ZKd4Bl7poA6MQ9hePq-BWJxoCV8wQAvD_BwE">Carolina Herrera</a></li>
+    <li><a href="https://www.pandorajoias.com.br/lancamentos?gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNUppEbyFmDeQ1EFpOX8zPLe2UnQtKABWTiwrpk8bDasX0-7ni_QathoC6ZIQAvD_BwE&gclsrc=aw.ds">Pandora</a></li>
+    <li><a href="https://www.vivara.com.br/vivara/joias?gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNTTltnRanZx7aIp6rGyvtkM8vTJsdaWV2KmGFeCM2Uxx1m20aaPJvBoCsxUQAvD_BwE">Vivara</a></li>
+    <li><a href="https://www.eudora.com.br/?gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNb5R2cEiAWpecTBmtNROtgebAYbHAJTPc9mnz0P5R3uIYRcIELpsvxoCwPwQAvD_BwE&gclsrc=aw.ds">Eudora</a></li>
+</ul>
+
+</body>
+</html>
